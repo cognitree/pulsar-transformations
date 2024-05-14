@@ -50,6 +50,7 @@
     <json-schema-validator.version>1.0.72</json-schema-validator.version>
     <tomcat-embed-el.version>10.1.4</tomcat-embed-el.version>
     <commons-collections4.version>4.4</commons-collections4.version>
+    <jackson.version>2.15.0</jackson.version>
   </properties>
   <modules>
     <module>streaming-ai</module>
